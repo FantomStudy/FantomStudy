@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/FantomStudy" target="_blank">Daniil</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div style="display: flex;" align="center">
+<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer&center=true)](https://git.io/typing-svg)
   
@@ -23,10 +23,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="50"  height="50" />&nbsp;
 
   ### :fire: My Stats :
-  [![GitHub Streak](https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact&theme=tokyonight&hide_border=true)
-  
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=default&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=default&hide_border=true">
+  </picture>
+  </br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact&theme=default&hide_border=true">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact&theme=default&hide_border=true">
+  </picture>
+
 </div>
   
 <!--
