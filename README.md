@@ -5,11 +5,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer&center=true)](https://git.io/typing-svg)
   
-</div>
-  
-### 🛠️ Languages and Tools :
-
-<div style="display: flex;" align="center">
+  ### 🛠️ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-js" width="50" height="50" />&nbsp;
   <img src="https://api.iconify.design/devicon:zustand.svg" alt="zustand" width="50" height="50" />&nbsp;
   <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="tanstack" width="50" height="50" />&nbsp;
@@ -25,16 +21,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html"  height="50" />&nbsp;
   <img src="https://api.iconify.design/devicon:fiber.svg" alt="fiber" width="50"  height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="50"  height="50" />&nbsp;
-  
-</div>
 
-### :fire: My Stats :
-
-<div style="display: flex;" align="center">
-  
+  ### :fire: My Stats :
   [![GitHub Streak](https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact&theme=tokyonight&hide_border=true)
+  
 </div>
   
 <!--
