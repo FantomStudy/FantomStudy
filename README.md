@@ -2,7 +2,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
 
 ### :fire: My Stats :
 
