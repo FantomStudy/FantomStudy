@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FantomStudy&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantomStudy&layout=compact&theme=tokyonight)
 
 <!--
 **FantomStudy/FantomStudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
