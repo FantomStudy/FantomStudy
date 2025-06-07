@@ -25,9 +25,9 @@
   ### :fire: My Stats :
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=default&hide_border=true">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats-wheat-delta.vercel.app?user=FantomStudy&theme=default&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats-rust.vercel.app?user=FantomStudy&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-streak-stats-rust.vercel.app?user=FantomStudy&theme=telegram&hide_border=true">
+    <img alt="GitHub Streak" src="https://github-streak-stats-rust.vercel.app?user=FantomStudy&theme=telegram&hide_border=true">
   </picture>
   </br>
   <picture>
