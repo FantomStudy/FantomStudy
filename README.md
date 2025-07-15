@@ -19,8 +19,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50" />&nbsp;
   <img src="https://camo.githubusercontent.com/55193e90935d7e70c00f1e32a92183a65e82237e16045b007d17f02043c23ebb/68747470733a2f2f63737364622e6f72672f696d616765732f6373732e737667" alt="css" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html"  height="50" />&nbsp;
-    <!--<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="50"  height="50" />&nbsp;
-<img src="https://api.iconify.design/devicon:fiber.svg" alt="fiber" width="50"  height="50" />&nbsp;-->
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="50"  height="50" />&nbsp;
 
   ### :fire: My Stats :
 
