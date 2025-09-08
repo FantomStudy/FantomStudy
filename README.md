@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-js" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next-js" width="50" height="50" />&nbsp;
   <img src="https://api.iconify.design/devicon:zustand.svg" alt="zustand" width="50" height="50" />&nbsp;
-  <img src="https://tanstack.com/assets/splash-dark-8nwlc0Nt.png" alt="tanstack" width="50" height="50" />&nbsp;
+  <img src="https://github.com/user-attachments/assets/a86e457d-be7d-4aa0-bfa5-496bd444b9d1" alt="tanstack" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="50" height="50" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" alt="bun" width="50" height="50" />&nbsp;
   <img src="https://api.iconify.design/logos:yarn.svg" alt="yarn" width="50" height="50" />&nbsp;
